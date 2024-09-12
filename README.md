@@ -35,9 +35,7 @@ Focado em manipulação de arquivos JSON. O aplicativo permite o cadastro, lista
 
 - **Listagem de metas:** Veja todas as metas e as marque ou desmarque como concluídas.
 
-- **Visualizar metas realizadas:** Confira as metas que já foram concluídas.
-
-- **Visualizar metas pendentes:** Confira as metas que ainda precisam ser realizadas.
+- **Visualizar metas realizadas e pendentes:** Confira as metas concluídas e as que ainda precisam ser realizadas.
 
 - **Deletar metas:** Remova metas indesejadas da sua lista.
 

@@ -1,6 +1,8 @@
-# Gerenciador de Metas
+# Gerenciador de metas
 
-Desenvolvido durante o NLW Pocket da Rocketseat para se aprofundar nos fundamentos do JavaScript, focado em manipulação de arquivos JSON. O aplicativo permite o cadastro, listagem, conclusão, visualização de metas pendentes, e deleção de metas.
+Desenvolvido durante o NLW Pocket da Rocketseat com o intuito de se aprofundar nos fundamentos do JavaScript.
+
+Focado em manipulação de arquivos JSON. O aplicativo permite o cadastro, listagem, conclusão, visualização de metas pendentes, e deleção de metas.
 
 ## Tecnologias
 
@@ -30,9 +32,13 @@ Desenvolvido durante o NLW Pocket da Rocketseat para se aprofundar nos fundament
 ## Funcionalidades
 
 - **Cadastrar metas:** Adicione novas metas.
+
 - **Listagem de metas:** Veja todas as metas e as marque ou desmarque como concluídas.
+
 - **Visualizar metas realizadas:** Confira as metas que já foram concluídas.
+
 - **Visualizar metas pendentes:** Confira as metas que ainda precisam ser realizadas.
+
 - **Deletar metas:** Remova metas indesejadas da sua lista.
 
 ## Melhorias implementadas

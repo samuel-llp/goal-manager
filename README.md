@@ -1,4 +1,6 @@
-![img](./src/assets/screenshot.png)
+<div aling="center">  
+    <img src="./src/assets/screenshot.png" width="480px" />
+</div>
 
 # Gerenciador de metas
 

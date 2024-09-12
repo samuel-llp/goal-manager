@@ -1,4 +1,4 @@
-![img](./src/img/screenshot.png)
+![img](./src/assets/screenshot.png)
 
 # Gerenciador de metas
 

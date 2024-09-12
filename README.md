@@ -1,3 +1,5 @@
+![img](./src/img/screenshot.png)
+
 # Gerenciador de metas
 
 Desenvolvido durante o NLW Pocket da Rocketseat com o intuito de se aprofundar nos fundamentos do JavaScript.
